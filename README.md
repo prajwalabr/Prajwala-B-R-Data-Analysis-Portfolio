@@ -10,6 +10,11 @@ Worked on developing predictive analytics platforms to computer vision projects,
 
 My Resume: [View Resume](https://drive.google.com/file/d/19mYjCbKg4WKtDMV7cg4bQWaJ-ggT-06T/view?usp=drive_link)
 
+## Personal Projects
+1. **Python:** [Diwali Sales Analysis](https://github.com/prajwalabr/Diwali-Sales-Analysis-Python)
+2.  **SQL:** - [Walmart Sales Analysis](https://github.com/prajwalabr/Projects)  
+            - [Spotify Data Analysis](https://github.com/prajwalabr/Spotify-Data) 
+
 ## Key Skills
 - **Programming:** Python, C++
 - **Database Management:** MySQL, MongoDB, PostgreSQL
@@ -17,11 +22,6 @@ My Resume: [View Resume](https://drive.google.com/file/d/19mYjCbKg4WKtDMV7cg4bQW
 - **Machine Learning:** Regression, Classification, Time Series Analysis
 - **Deep Learning:** Neural Networks, CNN, RNN
 - **Cloud Platforms:** AWS (Sagemaker, S3)
-
-## Personal Projects
-1. **Python:** [Diwali Sales Analysis](https://github.com/prajwalabr/Diwali-Sales-Analysis-Python)
-2.  **SQL:** - [Walmart Sales Analysis](https://github.com/prajwalabr/Projects)  
-            - [Spotify Data Analysis](https://github.com/prajwalabr/Spotify-Data) 
 
 ## Aricles & Publications
 1. [Why Data Visualization is Crucial](https://medium.com/@prajwalabr/seeing-is-believing-why-data-visualization-is-crucial-9d9dbd10109b)

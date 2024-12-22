@@ -8,7 +8,7 @@ With extensive hands-on experience in data analysis, visualization, and machine 
 
 Worked on developing predictive analytics platforms to computer vision projects, I thrive on solving challenges and delivering high-quality, impactful results. I take pride in my ability to simplify complexity and create intuitive dashboards.
 
-My Resume: [View Resume](https://drive.google.com/file/d/1JZ_51LIFxUshXE-P6LPdg7NumGt4kot_/view?usp=drive_link)
+My Resume: [View Resume](https://drive.google.com/file/d/19mYjCbKg4WKtDMV7cg4bQWaJ-ggT-06T/view?usp=drive_link)
 
 ## Key Skills
 - **Programming:** Python, C++

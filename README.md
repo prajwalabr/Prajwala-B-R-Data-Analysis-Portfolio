@@ -17,5 +17,8 @@ My Resume: [View Resume](https://drive.google.com/file/d/1JZ_51LIFxUshXE-P6LPdg7
 - **Cloud Platforms:** AWS (Sagemaker, S3)
 
 ## Personal Projects
+- **Python:** [Diwali Sales Analysis](https://github.com/prajwalabr/Diwali-Sales-Analysis-Python)
+- **SQL:** [Walmart Sales Analysis](https://github.com/prajwalabr/Projects)
+           [Spotify Data Analysis](https://github.com/prajwalabr/Spotify-Data) 
 
 

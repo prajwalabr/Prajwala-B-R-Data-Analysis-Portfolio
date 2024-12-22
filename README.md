@@ -18,7 +18,16 @@ My Resume: [View Resume](https://drive.google.com/file/d/1JZ_51LIFxUshXE-P6LPdg7
 
 ## Personal Projects
 - **Python:** [Diwali Sales Analysis](https://github.com/prajwalabr/Diwali-Sales-Analysis-Python)
-- **SQL:** [Walmart Sales Analysis](https://github.com/prajwalabr/Projects)
-           [Spotify Data Analysis](https://github.com/prajwalabr/Spotify-Data) 
+-  **SQL:** - [Walmart Sales Analysis](https://github.com/prajwalabr/Projects)
+            - [Spotify Data Analysis](https://github.com/prajwalabr/Spotify-Data) 
+
+## Publications
+1. [Why Data Visualization is Crucial](https://medium.com/@prajwalabr/seeing-is-believing-why-data-visualization-is-crucial-9d9dbd10109b)
+2. [Data Cleaning using SQL](https://medium.com/@prajwalabr/data-cleaning-using-sql-5b8b157d5e3b)
+
+## Certifications
+- Tableau Desktop Specialist: [View Certificate](https://www.credly.com/badges/00523bc4-iia119-4d5b-ace4-cea5bce72496)
+- Python (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/7b3e252b0940ii)
+- Data Science & Artificial Intelligence (UpGrad): [View Certificate](https://certificate.givemycertificate.com/c/415e99e3-e924-4422-8bcf-f6fd38a06aa5)
 
 

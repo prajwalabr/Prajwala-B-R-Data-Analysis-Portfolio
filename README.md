@@ -2,7 +2,7 @@
 ## About
 I am Prajwala B R, a Passionate Data Analyst and **Tableau Desktop Specialist** with a passion for delivering impactful data-driven solutions. 
 
-A Computer Science graduate with over 1.5 years of professional experience in data analysis and machine learning, currently contributing at Codecraft Technologies.
+A Computer Science graduate with over 2 years of professional experience in data analysis and machine learning, currently contributing at [24]7.ai.
 
 With extensive hands-on experience in data analysis, visualization, and machine learning, I specialize in transforming raw data into actionable insights. My expertise lies in using tools like Tableau, Python, Power BI, Advance Excel, SQL to build solutions that drive informed decision-making.
 

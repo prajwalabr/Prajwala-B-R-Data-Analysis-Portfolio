@@ -28,7 +28,7 @@ My Resume: [View Resume](https://drive.google.com/file/d/1-hQcNLTd8e8Upys83EfUAS
 2. [Data Cleaning using SQL](https://medium.com/@prajwalabr/data-cleaning-using-sql-5b8b157d5e3b)
 
 ## Certifications
-- Tableau Desktop Specialist: [View Certificate](https://www.credly.com/badges/00523bc4-iia119-4d5b-ace4-cea5bce72496)
+- Tableau Desktop Specialist: [View Certificate](https://www.credly.com/badges/00523bc4-a119-4d5b-ace4-cea5bce72496/linked_in_profile)
 - Python (HackerRank): [View Certificate](https://www.hackerrank.com/certificates/7b3e252b0940ii)
 - Data Science & Artificial Intelligence (UpGrad): [View Certificate](https://certificate.givemycertificate.com/c/415e99e3-e924-4422-8bcf-f6fd38a06aa5)
 

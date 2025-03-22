@@ -12,8 +12,9 @@ My Resume: [View Resume](https://drive.google.com/file/d/1-hQcNLTd8e8Upys83EfUAS
 
 ## Personal Projects
 1. **Python:** [Diwali Sales Analysis](https://github.com/prajwalabr/Diwali-Sales-Analysis-Python)
-2.  **SQL:** - [Walmart Sales Analysis](https://github.com/prajwalabr/Projects)  
-            - [Spotify Data Analysis](https://github.com/prajwalabr/Spotify-Data) 
+2.  **SQL:**- [Zomato Data Analysis](https://github.com/prajwalabr/Zomato-Data-Analysis/tree/main)
+   - [Walmart Sales Analysis](https://github.com/prajwalabr/Projects)
+   - [Spotify Data Analysis](https://github.com/prajwalabr/Spotify-Data) 
 
 ## Key Skills
 - **Programming:** Python, C++

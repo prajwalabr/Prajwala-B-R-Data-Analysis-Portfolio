@@ -8,7 +8,7 @@ With extensive hands-on experience in data analysis, visualization, and machine 
 
 Worked on developing predictive analytics platforms to computer vision projects, I thrive on solving challenges and delivering high-quality, impactful results. I take pride in my ability to simplify complexity and create intuitive dashboards.
 
-My Resume: [View Resume](https://drive.google.com/file/d/1-hQcNLTd8e8Upys83EfUASixNV_e70W2/view?usp=drive_link)
+My Resume: [View Resume](https://drive.google.com/file/d/1Tdcoq97MJ-469O28L_lVqKNJRwNTOhEd/view?usp=drive_link)
 
 ## Personal Projects
 1. **Python:** [Diwali Sales Analysis](https://github.com/prajwalabr/Diwali-Sales-Analysis-Python)
